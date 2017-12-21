@@ -1,7 +1,5 @@
 # Data_Bootcamp_Final_Project
 Final Project for NYU Stern Data Bootcamp Class 
-The Readme File
-The following text must populate your readme file:
 
 This project was completed by insert Annette Lee here in partial fulfilment of ECON-UB.0232,
 Data Bootcamp, Fall 2017. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
