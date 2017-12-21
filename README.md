@@ -1,7 +1,7 @@
 # Data_Bootcamp_Final_Project
 Final Project for NYU Stern Data Bootcamp Class 
 
-This project was completed by insert Annette Lee here in partial fulfilment of ECON-UB.0232,
+This project was completed by  Annette Lee in partial fulfilment of ECON-UB.0232,
 Data Bootcamp, Fall 2017. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
 
 Clearly acknowledged the work and efforts of others when submitting written work as our own.
