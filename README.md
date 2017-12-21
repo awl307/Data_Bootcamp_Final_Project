@@ -10,6 +10,7 @@ And I understand that:
 Submitting the same or substantially similar work in multiple courses, either in the same semester
 or in a different semester, without the express approval of all instructors is strictly forbidden. I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
-Project Description
+Project Description:
+
 Unicorns are startups valued at over one billion dollars. The startup industry has been a booming one for the last ten years. As the number of startups grow, the valuations have grown to crazy amounts, even if the product is wildly unsuccessful. I thought it would be interesting to analyze the indicators of an unicorn startup and learn more about the characteristics of a billion dollar company. In the end, I hope to answer: What will the next billion-dollar start-up look like?
 
